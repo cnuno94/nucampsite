@@ -28,6 +28,10 @@ header h2 {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+.colcont {
+    border-right: 1px ridge;
+    border-left: 1px ridge;
+}
 .navbar {
     background-color: #901CAD;
 }
